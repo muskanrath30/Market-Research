@@ -29,7 +29,7 @@ The category and subcategory can be the following;
    Currently there is only one research agent - MarketResearchAgent which plays the role of Research Assistant and gathers detailed market insights.
    Result would be saved in a text file - research_summary.txt
 
-   3) question_generator.py:
+3) question_generator.py:
        This module is responsible for generating questions
 
    We can run this code by: uvicorn app: app --reload.
