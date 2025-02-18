@@ -1,0 +1,15 @@
+crewai==0.102.0
+crewai_tools==0.36.0
+fastapi==0.115.8
+Flask==2.2.2
+Flask_Cors==5.0.0
+langchain==0.3.19
+langchain_community==0.3.17
+langchain_openai==0.3.6
+openai==1.63.2
+pydantic==2.10.6
+python-dotenv==1.0.1
+Requests==2.32.3
+streamlit==1.33.0
+uvicorn==0.34.0
+python version 3.10.4
